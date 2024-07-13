@@ -1,4 +1,4 @@
-function App() {
+export function App() {
   return (
     <>
       <div className="bg-blue-800">
@@ -8,4 +8,3 @@ function App() {
   );
 }
 
-export default App;
